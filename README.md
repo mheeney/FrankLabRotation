@@ -29,6 +29,7 @@ Option #3: featurecountsexpression.sh OR stringtie (google)
         to allow for GRN construction (not desired yet)
         to look at expression in source (thought:: source sink; expression level paired with movement)
         
-                3.1:: Differential Expression Analysis with edgeR to determine which genes are unique to tomato and unique to eggplant
+                3.1:: Differential Expression Analysis with edgeR to determine which genes are unique 
+                to tomato and unique to eggplant
         
 ...
